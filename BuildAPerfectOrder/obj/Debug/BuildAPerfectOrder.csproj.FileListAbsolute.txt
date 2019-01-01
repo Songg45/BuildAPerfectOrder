@@ -1,0 +1,21 @@
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\bin\Debug\BuildAPerfectOrder.exe.config
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\bin\Debug\BuildAPerfectOrder.exe
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\bin\Debug\BuildAPerfectOrder.pdb
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.Form1.resources
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.Properties.Resources.resources
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.csproj.GenerateResource.cache
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.csproj.CoreCompileInputs.cache
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.exe
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.pdb
+C:\Users\b-tuc\AppData\Local\Temporary Projects\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.csprojAssemblyReference.cache
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\bin\Debug\BuildAPerfectOrder.exe.config
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\bin\Debug\BuildAPerfectOrder.exe
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\bin\Debug\BuildAPerfectOrder.pdb
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.csprojAssemblyReference.cache
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.Form1.resources
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.Properties.Resources.resources
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.csproj.GenerateResource.cache
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.csproj.CoreCompileInputs.cache
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.exe
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.pdb
+C:\Users\b-tuc\source\repos\BuildAPerfectOrder\BuildAPerfectOrder\obj\Debug\BuildAPerfectOrder.g.resources
