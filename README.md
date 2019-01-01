@@ -6,5 +6,4 @@ This program has a long way to go. Currently only Chicken Biscuts work in a very
 TODO (once everything is finished) :
 
     Use drag and drop instead of clicks
-    
     Connect to AWS Server for multiplayer and saving scores
